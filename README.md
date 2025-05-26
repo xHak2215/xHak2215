@@ -2,7 +2,6 @@
 - 👀 I’m interested in app developers
 - 🌱 I’m currently learning C++/Python developer<br>
 
-license name: «HITHELL» or hit<@HITHELL.com> 
 <details>
   <summary>автор</summary>
   <ol>
