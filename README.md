@@ -23,7 +23,7 @@
   </ol>
 </details>
 
-:3![src/senco.png]
+![:3](src/senco.png)
 
 
 
