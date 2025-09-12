@@ -23,7 +23,8 @@
   </ol>
 </details>
 
-![:3](src/senco.png)
+<img src="src/senco.png" alt=":3" width="100" height="100" align="left">
+
 
 
 
