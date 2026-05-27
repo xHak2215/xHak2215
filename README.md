@@ -27,7 +27,7 @@
 </details>
 -->
 
-<img src="src/senco.png" alt=":3" width="110" height="110" align="left">
+<!--<img src="src/senco.png" alt=":3" width="110" height="110" align="left">-->
 
 
 
