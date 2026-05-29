@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 </p>
 
 ---
