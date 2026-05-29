@@ -1,7 +1,7 @@
 <h3 align="center">HI</h3>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
 
 <img
 src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
@@ -12,6 +12,7 @@ src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
 
 <img
 src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=FFF"/>
+
 </p>
 
 ---
